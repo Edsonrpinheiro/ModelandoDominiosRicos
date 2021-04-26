@@ -1,0 +1,15 @@
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.deps.json
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.dll
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\ref\PaymentContext.Domain.dll
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.pdb
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csprojAssemblyReference.cache
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.AssemblyInfo.cs
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.dll
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\ref\PaymentContext.Domain.dll
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.pdb
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.dll
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.pdb
+E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.CopyComplete
