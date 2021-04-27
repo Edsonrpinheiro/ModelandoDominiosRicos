@@ -9,7 +9,7 @@ namespace PaymentContext.Test
         [TestMethod]
         public void TestMethod1()
         {
-            var studant = new Student("Edson", "Rodrigues Pinheiro", "42530880824", "edson@ecliente.com.br");
+            // var studant = new Student("Edson", "Rodrigues Pinheiro", "42530880824", "edson@ecliente.com.br");
         }
     }
 }

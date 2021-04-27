@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Test\\PaymentContext.Test.csproj": {}
+    "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Test\\PaymentContext.Test.csproj": {}
   },
   "projects": {
-    "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+    "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "projectUniqueName": "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
         "projectName": "PaymentContext.Domain",
-        "projectPath": "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "projectPath": "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
         "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-        "outputPath": "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Domain\\obj\\",
+        "outputPath": "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-                "projectPath": "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+              "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
               }
             }
           }
@@ -43,6 +43,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "flunt": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,14 +68,14 @@
         }
       }
     },
-    "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+    "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectUniqueName": "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "projectName": "PaymentContext.Shared",
-        "projectPath": "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectPath": "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-        "outputPath": "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Shared\\obj\\",
+        "outputPath": "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,6 +103,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "flunt": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -116,14 +128,14 @@
         }
       }
     },
-    "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Test\\PaymentContext.Test.csproj": {
+    "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Test\\PaymentContext.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Test\\PaymentContext.Test.csproj",
+        "projectUniqueName": "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Test\\PaymentContext.Test.csproj",
         "projectName": "PaymentContext.Test",
-        "projectPath": "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Test\\PaymentContext.Test.csproj",
+        "projectPath": "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Test\\PaymentContext.Test.csproj",
         "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-        "outputPath": "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Test\\obj\\",
+        "outputPath": "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,11 +152,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
-                "projectPath": "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
+              "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+                "projectPath": "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
               },
-              "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-                "projectPath": "E:\\netCore\\modelando-dominios-ricos\\paymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+              "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "E:\\netCore\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
               }
             }
           }

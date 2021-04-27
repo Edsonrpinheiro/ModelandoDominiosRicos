@@ -13,3 +13,6 @@ E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\obj\Deb
 E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.dll
 E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.pdb
 E:\netCore\modelando-dominios-ricos\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.CopyComplete
+E:\netCore\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.dll
+E:\netCore\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\ref\PaymentContext.Domain.dll
+E:\netCore\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.pdb

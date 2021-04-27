@@ -7,7 +7,7 @@ namespace PaymentContext.Domain.Entities
     public class Subscription
     {
         private readonly IList<Payment> _payments;
-        public Subscription( DateTime? expireDate)
+        public Subscription(DateTime? expireDate)
         {
             CreateDate = DateTime.Now;
             LastUpdate = DateTime.Now;
@@ -20,7 +20,7 @@ namespace PaymentContext.Domain.Entities
         public DateTime LastUpdate { get; private set; }
         public DateTime? ExpireDate { get; private set; }
         public bool Active { get; private set; }
-        public IReadOnlyCollection<Payment> Payments { get {return _payments.ToArray(); } }
+        public IReadOnlyCollection<Payment> Payments { get { return _payments.ToArray(); } }
 
         public void Activate()
         {
