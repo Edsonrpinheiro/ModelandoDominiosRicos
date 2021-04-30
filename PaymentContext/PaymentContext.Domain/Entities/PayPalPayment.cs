@@ -9,7 +9,7 @@ namespace PaymentContext.Domain.Entities
             DateTime paiDate,
             DateTime expiredDate,
             decimal total,
-            string totalPaid,
+            decimal totalPaid,
             string payer,
             Document document,
             Address address,

@@ -18,3 +18,7 @@ E:\netCore\ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug
 E:\netCore\ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.dll
 E:\netCore\ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\ref\PaymentContext.Shared.dll
 E:\netCore\ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.pdb
+E:\netCore\ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.deps.json
+E:\netCore\ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.dll
+E:\netCore\ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\ref\PaymentContext.Shared.dll
+E:\netCore\ModelandoDominiosRicos\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.pdb
