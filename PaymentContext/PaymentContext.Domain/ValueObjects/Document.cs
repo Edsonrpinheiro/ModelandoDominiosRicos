@@ -9,7 +9,7 @@ namespace PaymentContext.Domain.ValueObjects
         public Document(string number, EDocumentType type)
         {
             Number = number;
-            Type = Type;
+            Type = type;
 
             AddNotifications(new Contract()
                 .Requires()
@@ -20,7 +20,7 @@ namespace PaymentContext.Domain.ValueObjects
         public string Number { get; private set; }
         public EDocumentType Type { get; set; }
 
-        public bool Validate()
+        private bool Validate()
         {
             if (Type == EDocumentType.CNPJ && Number.Length == 14)
                 return true;
